@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Curso Moviles</string>
+    <string name="text_username">Nombre de usuario</string>
+    <string name="text_password">Contraseña</string>
+    <string name="button_login">INICIAR SESION</string>
+    <string name="text_welcome">Bienvenido</string>
+    <string name="text_user">Heri</string>
+    <string name="text_cancel">CANCELAR</string>
+    <string name="text_introduction">Introducción</string>
+    <string name="text_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+        ut aliquip ex ea commodo consequat.</string>
+    <string name="text_action_search">Buscar</string>
+    <string name="text_action_settings">Configuración</string>
+    <string name="text_action_logout">Cerrar sesión</string>
+</resources>
